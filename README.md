@@ -73,6 +73,7 @@ Holds notes on vault maintenance, reflections on usage, and updates on Obsidian 
 ## Templates
 
 ### 020 Basic Template
+```markdown
 # [Title of Note]
 ## Date: [YYYY-MM-DD]
 ## Tags: #topic
@@ -86,8 +87,9 @@ Holds notes on vault maintenance, reflections on usage, and updates on Obsidian 
 ### Links
 - [[Related Note 1]]
 - [[Related Note 2]]
+```
 
-
+```markdown
 # [Mathematical Concept/Equation]
 ## Date: [YYYY-MM-DD]
 ## Tags: #math #subject
@@ -99,7 +101,9 @@ Holds notes on vault maintenance, reflections on usage, and updates on Obsidian 
 
 ### Examples
 - [[Example 1]]
+```
 
+```markdown
 # [CS Topic/Algorithm]
 ## Date: [YYYY-MM-DD]
 ## Tags: #CS #subject
@@ -108,8 +112,9 @@ Holds notes on vault maintenance, reflections on usage, and updates on Obsidian 
 [Brief description of the concept]
 
 ### Code Snippets
-```python
+"""python
 # Python code example
+"""
 ```
 
 ## Best Practices
