@@ -69,3 +69,55 @@ Holds notes on vault maintenance, reflections on usage, and updates on Obsidian 
 3. **Reviewing Notes**:
    - Conduct regular reviews of the `05 Fleeting Notes` folder and move relevant notes to their permanent locations.
    - Update the `000 Index` regularly to reflect important or frequently accessed notes.
+
+## Templates
+
+### 020 Basic Template
+```markdown
+# [Title of Note]
+## Date: [YYYY-MM-DD]
+## Tags: #topic
+---
+### Overview
+[Brief description]
+
+### Content
+[Content goes here]
+
+### Links
+- [[Related Note 1]]
+- [[Related Note 2]]
+
+# [Mathematical Concept/Equation]
+## Date: [YYYY-MM-DD]
+## Tags: #math #subject
+---
+### Concept
+[Explanation of the concept]
+
+### Equations
+
+### Examples
+- [[Example 1]]
+
+# [CS Topic/Algorithm]
+## Date: [YYYY-MM-DD]
+## Tags: #CS #subject
+---
+### Description
+[Brief description of the concept]
+
+### Code Snippets
+```python
+# Python code example
+
+## Best Practices
+
+- **Linking**: Use backlinks and forward links to interconnect notes and topics across the vault.
+- **Tags**: Use a consistent tagging scheme to categorize and retrieve notes easily.
+- **Regular Maintenance**: Review and update notes regularly to keep the vault relevant and useful.
+
+## License
+
+This vault is for personal and educational use. Feel free to adapt this structure and content to your needs. If you distribute or share this vault, please provide appropriate credit.
+
